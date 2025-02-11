@@ -55,8 +55,6 @@ Run each section of the Jupyter Notebook sequentially to:
 - Seaborn
 - Scikit-learn
 
-## Contributors
-- Your Name ([GitHub Profile](https://github.com/yourusername))
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
